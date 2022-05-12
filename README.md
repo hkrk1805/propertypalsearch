@@ -3,7 +3,7 @@
  This is a cypress test application
 - Clone project from
 ```
--git clone
+-git clone https://github.com/hkrk1805/propertypalsearch.git
 ```
 -Open project in visualcode
 
